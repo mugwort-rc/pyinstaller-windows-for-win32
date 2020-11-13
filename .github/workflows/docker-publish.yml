@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: pyinstaller-windows-for-win32
+  IMAGE_NAME: image
 
 jobs:
   # Run tests.
